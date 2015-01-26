@@ -17,5 +17,5 @@ source("run_analysis.R")
 **NOTE**: the script assumes the following:  
 1. the user downloaded and extracted the 'Getting and Cleaning Data' course project zipped archive  
 2. the working directory is the 'UCI HAR Dataset' directory  
-3. the user has installed the package '' and ''  
+3. the user has installed the package 'data.table' and 'dplyr'  
 
